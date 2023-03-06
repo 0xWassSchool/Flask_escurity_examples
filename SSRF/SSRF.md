@@ -49,4 +49,4 @@ prodotto=http://server-attaccante/admin
 # Tips per contrastare questa vulnerabilita'
 - Filtrare il tipo di input o query
 - Encodare il data
-- Usare headers di sicurezza
+- Usare headers di sicurezza specifici auth headers
