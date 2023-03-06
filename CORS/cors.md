@@ -6,4 +6,5 @@ Un attaco di tipo CORS e' un attacco che sfrutta un meccanismo che viene usato p
 
 # Tips per contrastare queste vulnerabilita'
 - Consentire solo risorse certe
-- Non inserire parametri nulli nella lista
+- Non inserire parametri nulli nella lista dei domini consentiti dai cors, questo potrebbe causare questa vulnerabilita'
+
